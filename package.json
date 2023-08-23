@@ -1,5 +1,6 @@
 {
   "name": "web-test",
+  "homepage": "https://hovawart.github.io/react-charlie/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
